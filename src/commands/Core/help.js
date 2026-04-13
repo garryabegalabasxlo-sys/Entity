@@ -73,8 +73,8 @@ async function createInitialHelpMenu() {
     ];
 
     const embed = createEmbed({ 
-        title: "🤖 TitanBot Help Center",
-        description: "Your all-in-one Discord companion for moderation, economy, fun, and server management.",
+        title: "Entity's AVAILABLE Commands",
+        description: "Whatever you need, I will try to provide.",
         color: 'primary'
     });
 
